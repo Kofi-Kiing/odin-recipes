@@ -1,0 +1,1 @@
+By the end of the first part of this project, I should be comfortable with making a basic html website, which would include adding links to webpages and making sure those links are secured and void of tabnabbing etc and finally Learning how to interact use git to organize my project files. 
